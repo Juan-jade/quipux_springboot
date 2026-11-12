@@ -7,4 +7,6 @@ Panel del estudiante: consulta sus notas, promedio por materia, tardanzas, ausen
 
 Swagger UI: **http://localhost:8080/swagger-ui.html** · OpenAPI JSON: `http://localhost:8080/v3/api-docs`
 
-
+Estudiante: Juan Pablo Gomez Cardona
+NIT:1040877338
+Correo:juanpagoca2610@gmail.com
